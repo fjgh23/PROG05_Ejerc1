@@ -8,10 +8,6 @@ import java.util.Scanner;
 import PROG05_Ejerc1_util.DNI;
 import PROG05_Ejerc1_util.Validar;
 
-/*
-    Esto es un comentario para la práctica de Entornos de Desarrollo
-*/
-
 /**
  *
  * Gestión de un vehículo.
@@ -22,6 +18,7 @@ public class Principal {
 
     // Declara atributos de la clase
     static Vehiculo coche;
+    int HolaED = 1;
     
     /**
      *
