@@ -18,7 +18,6 @@ public class Principal {
 
     // Declara atributos de la clase
     static Vehiculo coche;
-    int HolaED = 1;
     
     /**
      *
